@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.1](https://github.com/dcc-mcp/dcc-mcp-openusd/compare/v0.10.0...v0.10.1) (2026-10-06)
+
+
+### Documentation
+
+* **readme:** add the generated DCC-MCP host matrix pointer ([#63](https://github.com/dcc-mcp/dcc-mcp-openusd/issues/63)) ([ac5504c](https://github.com/dcc-mcp/dcc-mcp-openusd/commit/ac5504c6fb75474c640793528ab7f4de31fb8388))
+
 ## [0.10.0](https://github.com/dcc-mcp/dcc-mcp-openusd/compare/v0.9.0...v0.10.0) (2026-09-28)
 
 
